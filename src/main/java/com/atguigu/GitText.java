@@ -5,6 +5,7 @@ public class GitText {
         System.out.println("hello world!");
         System.out.println("change1");
         System.out.println("change2");
+        System.out.println("change3");
     }
 
 }
